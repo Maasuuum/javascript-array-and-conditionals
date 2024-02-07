@@ -14,6 +14,6 @@ numbers[3] = 77;
 console.log(numbers);
 
 // find index of an element
-// var positionIndex = numbers.indexOf(89);
-// console.log(positionIndex);
-console.log(numbers.indexOf(89));
+var positionIndex = numbers.indexOf(89);
+console.log(positionIndex);
+// console.log(numbers.indexOf(89));
